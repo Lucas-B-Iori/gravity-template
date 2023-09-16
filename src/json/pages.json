@@ -1,0 +1,34 @@
+[
+    {
+        "nome": "Home Pages",
+        "imagem": "/assets/pages/home-pages.png"
+    },
+    {
+        "nome": "Landing Pages",
+        "imagem": "/assets/pages/landing-pages.png"
+    },
+    {
+        "nome": "Inner Pages",
+        "imagem": "/assets/pages/inner-pages.png"
+    },
+    {
+        "nome": "Blog Pages",
+        "imagem": "/assets/pages/blog-pages.png"
+    },
+    {
+        "nome": "Portfolio Pages",
+        "imagem": "/assets/pages/portfolio-pages.png"
+    },
+    {
+        "nome": "Shop Pages",
+        "imagem": "/assets/pages/shop-pages.png"
+    },
+    {
+        "nome": "Many Features",
+        "imagem": "/assets/pages/features.png"
+    },
+    {
+        "nome": "Unique Elements",
+        "imagem": "/assets/pages/elements.png"
+    }
+]

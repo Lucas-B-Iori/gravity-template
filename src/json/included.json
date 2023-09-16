@@ -1,0 +1,83 @@
+[
+    {
+        "nome": "Retina ready",
+        "imagem": "/assets/included/retina-ready.png"
+    },
+    {
+        "nome": "Premium slider",
+        "imagem": "/assets/included/premium-slider.png"
+    },
+    {
+        "nome": "side panels",
+        "imagem": "/assets/included/side-panel.png"
+    },
+    {
+        "nome": "parallax effect",
+        "imagem": "/assets/included/parallax.png"
+    },
+    {
+        "nome": "fully responsive",
+        "imagem": "/assets/included/responsive.png"
+    },
+    {
+        "nome": "rtl available",
+        "imagem": "/assets/included/rtl.png"
+    },
+    {
+        "nome": "48+ headers",
+        "imagem": "/assets/included/unique-header.png"
+    },
+    {
+        "nome": "infinity icons",
+        "imagem": "/assets/included/icons.png"
+    },
+    {
+        "nome": "12+ menu styles",
+        "imagem": "/assets/included/menu.png"
+    },
+    {
+        "nome": "unlimited colors",
+        "imagem": "/assets/included/color.png"
+    },
+    {
+        "nome": "24+ footers",
+        "imagem": "/assets/included/footer.png"
+    },
+    {
+        "nome": "seo optimized",
+        "imagem": "/assets/included/seo.png"
+    },
+    {
+        "nome": "google fonts",
+        "imagem": "/assets/included/fonts.png"
+    },
+    {
+        "nome": "premium plugins",
+        "imagem": "/assets/included/plugins.png"
+    },
+    {
+        "nome": "free updates",
+        "imagem": "/assets/included/update.png"
+    },
+    {
+        "nome": "ecommerce support",
+        "imagem": "/assets/included/ecommerce.png"
+    },
+    {
+        "nome": "mega menu",
+        "imagem": "/assets/included/mega-menu.png"
+    },
+    {
+        "nome": "BOOTSTRAP 4.X",
+        "imagem": "/assets/included/bootstrap.png"
+    },
+    {
+        "nome": "w3c validated",
+        "imagem": "/assets/included/validate.png"
+    },
+    {
+        "nome": "documentation",
+        "imagem": "/assets/included/documentation.png"
+    }
+    
+]

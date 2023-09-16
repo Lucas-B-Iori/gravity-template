@@ -1,0 +1,194 @@
+[
+    {
+        "nome": "Accordions",
+        "imagem": "/assets/elements/accordions.png"
+    },
+    {
+        "nome": "Alert boxes",
+        "imagem": "/assets/elements/alert-boxes.png"
+    },
+    {
+        "nome": "animations",
+        "imagem": "/assets/elements/animations.png"
+    },
+    {
+        "nome": "badges",
+        "imagem": "/assets/elements/badges.png"
+    },
+    {
+        "nome": "banners",
+        "imagem": "/assets/elements/banners.png"
+    },
+    {
+        "nome": "blockquote`s",
+        "imagem": "/assets/elements/blockquotes.png"
+    },
+    {
+        "nome": "Box shadows",
+        "imagem": "/assets/elements/box-shadows.png"
+    },
+    {
+        "nome": "Breadcrumbs",
+        "imagem": "/assets/elements/breadcrumbs.png"
+    },
+    {
+        "nome": "buttons",
+        "imagem": "/assets/elements/buttons.png"
+    },
+    {
+        "nome": "Call to action",
+        "imagem": "/assets/elements/call-to-actions.png"
+    },
+    {
+        "nome": "carousels",
+        "imagem": "/assets/elements/carousels.png"
+    },
+    {
+        "nome": "clients",
+        "imagem": "/assets/elements/clients.png"
+    },
+    {
+        "nome": "columns",
+        "imagem": "/assets/elements/columns.png"
+    },
+    {
+        "nome": "comments",
+        "imagem": "/assets/elements/comments.png"
+    },
+    {
+        "nome": "countdowns",
+        "imagem": "/assets/elements/countdowns.png"
+    },
+    {
+        "nome": "counter",
+        "imagem": "/assets/elements/counters.png"
+    },
+    {
+        "nome": "dividers",
+        "imagem": "/assets/elements/dividers.png"
+    },
+    {
+        "nome": "dropcaps",
+        "imagem": "/assets/elements/dropcaps.png"
+    },
+    {
+        "nome": "forms",
+        "imagem": "/assets/elements/forms.png"
+    },
+    {
+        "nome": "galleries",
+        "imagem": "/assets/elements/galleries.png"
+    },
+    {
+        "nome": "gradients",
+        "imagem": "/assets/elements/gradients.png"
+    },
+    {
+        "nome": "hamburguers",
+        "imagem": "/assets/elements/hamburguers.png"
+    },
+    {
+        "nome": "headings",
+        "imagem": "/assets/elements/headings.png"
+    },
+    {
+        "nome": "Hero blocks",
+        "imagem": "/assets/elements/hero-blocks.png"
+    },
+    {
+        "nome": "Icon blocks",
+        "imagem": "/assets/elements/icon-blocks.png"
+    },
+    {
+        "nome": "icons",
+        "imagem": "/assets/elements/icons.png"
+    },
+    {
+        "nome": "info blocks",
+        "imagem": "/assets/elements/info blocks.png"
+    },
+    {
+        "nome": "labels",
+        "imagem": "/assets/elements/labels.png"
+    },
+    {
+        "nome": "lightboxes",
+        "imagem": "/assets/elements/lightboxes.png"
+    },
+    {
+        "nome": "lists group",
+        "imagem": "/assets/elements/lists group.png"
+    },
+    {
+        "nome": "maps",
+        "imagem": "/assets/elements/maps.png"
+    },
+    {
+        "nome": "media",
+        "imagem": "/assets/elements/media.png"
+    },
+    {
+        "nome": "news blocks",
+        "imagem": "/assets/elements/news-blocks.png"
+    },
+    {
+        "nome": "paginations",
+        "imagem": "/assets/elements/paginations.png"
+    },
+    {
+        "nome": "panels",
+        "imagem": "/assets/elements/panels.png"
+    },
+    {
+        "nome": "portfolios",
+        "imagem": "/assets/elements/portfolios.png"
+    },
+    {
+        "nome": "pricing plans",
+        "imagem": "/assets/elements/pricing-plans.png"
+    },
+    {
+        "nome": "process blocks",
+        "imagem": "/assets/elements/process-blocks.png"
+    },
+    {
+        "nome": "products",
+        "imagem": "/assets/elements/products.png"
+    },
+    {
+        "nome": "progress bars",
+        "imagem": "/assets/elements/progress-bars.png"
+    },
+    {
+        "nome": "tables",
+        "imagem": "/assets/elements/tables.png"
+    },
+    {
+        "nome": "tabs",
+        "imagem": "/assets/elements/tabs.png"
+    },
+    {
+        "nome": "taglines",
+        "imagem": "/assets/elements/taglines.png"
+    },
+    {
+        "nome": "tags",
+        "imagem": "/assets/elements/tags.png"
+    },
+    {
+        "nome": "team",
+        "imagem": "/assets/elements/team.png"
+    },
+    {
+        "nome": "testimonials",
+        "imagem": "/assets/elements/testimonials.png"
+    },
+    {
+        "nome": "timelines",
+        "imagem": "/assets/elements/timelines.png"
+    },
+    {
+        "nome": "users",
+        "imagem": "/assets/elements/users.png"
+    }
+]
